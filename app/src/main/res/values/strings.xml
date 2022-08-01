@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MemeSharer</string>
+    <string name="shareMeme">Share</string>
+    <string name="nextMeme">Next</string>
+    <string name="memeDescription">Loading a fresh Meme for you</string>
+    <string name="previousMeme">Last</string>
+</resources>
